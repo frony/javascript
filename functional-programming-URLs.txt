@@ -1,0 +1,19 @@
+
+----------- good tutorial ---------
+https://github.com/MostlyAdequate/mostly-adequate-guide
+https://www.gitbook.com/book/drboolean/mostly-adequate-guide/details
+https://drboolean.gitbooks.io/mostly-adequate-guide/content/ch1.html
+
+
+------------ application built with react and functional techniques ---------
+https://github.com/DrBoolean/classroom-coding
+
+
+
+----------- more videos -------------
+https://gziolo.pl/2016/12/21/exploring-functional-javascript/
+
+
+----------- books -------------
+
+https://gziolo.pl/2015/11/04/learning-functional-programming/

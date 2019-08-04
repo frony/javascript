@@ -1,0 +1,47 @@
+
+---------- good intro --------
+https://www.smashingmagazine.com/2016/08/a-beginners-guide-to-progressive-web-apps/#lighthouse
+
+
+---------- tutorial ----------
+https://codelabs.developers.google.com/codelabs/your-first-pwapp/index.html?index=..%2F..%2Fchrome-dev-summit-2016&viewga=UA-39334307-12#0
+
+
+-------- lighthouse ---------
+https://developers.google.com/web/tools/lighthouse/
+
+
+---------- push api ----------
+https://developer.mozilla.org/en/docs/Web/API/Push_API
+
+
+---------- firebase ----------
+https://firebase.google.com/
+
+
+---------- amp ----------
+https://www.ampproject.org/
+https://www.ampproject.org/learn/about-amp/
+https://github.com/ampproject/amphtml
+
+
+---------- service workers ----------
+https://developers.google.com/web/tools/service-worker-libraries/
+https://github.com/GoogleChrome/sw-toolbox
+https://github.com/GoogleChrome/sw-precache/blob/master/GettingStarted.md
+https://www.google.com/search?q=service+worker+libraries&ie=utf-8&oe=utf-8
+https://developers.google.com/web/fundamentals/instant-and-offline/service-worker/lifecycle
+
+
+
+---------- webassembly ----------
+http://webassembly.org/
+http://webassembly.org/getting-started/developers-guide/
+
+
+---------- google web tools ----------
+https://developers.google.com/web/tools/setup/
+
+
+---------- web starter kit ----------
+https://developers.google.com/web/tools/starter-kit/

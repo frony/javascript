@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>My test</title>
+</head>
+<body>
+<form name="'testForm" id="testForm">
+    <input type="text" name="ssn" id="ssn" />
+    <input type="hidden" name="hiddenSsn" />
+</form>
+
+<script>
+    $("#testForm").delegate("#ssn", "change", maskField);
+    
+    function maskField() {
+        
+    }
+</script>
+</body>
+</html>
