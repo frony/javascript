@@ -1,9 +1,5 @@
 'use strict';
 
-function isLetter(character) {
-  return 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ'.indexOf(character) >= 0;
-}
-
 class WordCloudData {
   constructor(inputString) {
     this.wordsToCounts = new Map();
@@ -44,4 +40,5 @@ let actual = new WordCloudData('I like cake').wordsToCounts;
 let expected = new Map([['I', 1], ['like', 1], ['cake', 1]]);
 // assert(isMapsEqual(actual, expected), desc);
 console.log(actual);
+console.log(expected);
 console.log(actual === expected);

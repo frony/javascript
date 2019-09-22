@@ -11,6 +11,7 @@ function getMaxProfit(stockPrices) {
 
   let minPrice = stockPrices[0];
   let maxProfit = stockPrices[1] - stockPrices[0];
+
   const maxLength = stockPrices.length;
 
   for (let i = 1; i < maxLength; i++) {

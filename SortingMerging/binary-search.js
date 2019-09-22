@@ -10,8 +10,8 @@ function binarySearch(array, searchValue) {
   // and the array is grater than 1
   // define a new start or end
   while (array[pivot] !== searchValue && start < end) {
-    console.log(`pivot: ${pivot}`);
-    console.log(`array[pivot]: ${array[pivot]}`);
+    // console.log(`pivot: ${pivot}`);
+    // console.log(`array[pivot]: ${array[pivot]}`);
     if (searchValue < array[pivot]) {
       // search to the left of pivot
       end = pivot - 1;
